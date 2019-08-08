@@ -17,6 +17,7 @@ type
     SBProcessar: TSpeedButton;
     LTitulo: TLabel;
     LValorCalculado: TLabel;
+    Panel1: TPanel;
     procedure EdtValorKeyPress(Sender: TObject; var Key: Char);
     procedure EdtValorExit(Sender: TObject);
     procedure SBProcessarClick(Sender: TObject);
